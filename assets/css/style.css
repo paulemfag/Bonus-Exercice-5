@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "starjedi";
+	src: url('../polices/Starjedi.ttf') format("truetype");
+}
+
+#titre {
+	font-family: "starjedi";
+}
+
+@font-face {
+	font-family: "buffied";
+	src: url('../polices/BUFFIED_.TTF') format("truetype");
+}
+
+#paragraphe {
+    font-family: "buffied";
+}
+
+@font-face {
+	font-family: "pricedownbl";
+	src: url('../polices/pricedown bl.ttf') format("truetype");
+}
+
+#paragraphe2 {
+    font-family: "pricedownbl";
+    src: url('../polices/pricedown bl.ttf');
+}
